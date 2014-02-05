@@ -1,0 +1,5 @@
+Application-Name: TiddlySaver
+Permissions: all-permissions
+Codebase: *
+Caller-Allowable-Codebase: *
+Application-Library-Allowable-Codebase: *
